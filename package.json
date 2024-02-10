@@ -4,8 +4,8 @@
   "description": "",
   "homepage": "https://khokenneth31.github.io/goit-js-09-repo",
   "scripts": {
-    "start": "parcel *.html",
-    "build": "parcel build *.html --public-url /goit-js-09-repo/"
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url /goit-js-09-repo/"
   },
   "repository": {
     "type": "git",
